@@ -1,10 +1,13 @@
 .App {
   text-align: center;
+  display: inline-block;
+  background: #FAFAFA;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.MainFrame {
+  display: flex;
+  width: 100%;
+  margin-top: 55px;
 }
 
 @media (prefers-reduced-motion: no-preference) {

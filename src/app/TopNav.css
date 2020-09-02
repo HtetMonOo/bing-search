@@ -1,0 +1,50 @@
+.TopNav {
+    position: fixed;
+    top:0;
+    right:0;
+    width: 100vw;
+    z-index: 10;
+}
+.btn {
+    background: inherit;
+}
+.search {
+  width: 50%;
+  display: flex;
+}
+
+.searchTerm {
+  width: 100%;
+  border-right: none;
+  padding: 15px;
+  height: 20px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  border: none;
+  color: #9DBFAF;
+  background: #ECEFF0;
+}
+
+.searchTerm:focus{
+  color: #00B4CC;
+  background: #ECEFF0;
+}
+
+.searchButton {
+  width: 40px;
+  height: 30px;
+  text-align: center;
+  color: #7E8084;
+  background: #ECEFF0;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+
+/*Resize the wrap to see the search bar change!*/
+.wrap{
+  width: 30%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

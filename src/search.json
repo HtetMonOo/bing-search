@@ -1,0 +1,1753 @@
+{
+   // loader design
+//    https://codepen.io/chrisgannon/pen/jLVwxZ
+    // https://codepen.io/rafaelavlucas/pen/gOOGLgz
+    // https://codepen.io/julesforrest/pen/oNvzEgy
+    // https://codepen.io/aaroniker/pen/omvYNZ
+    "_type": "Videos",
+    "instrumentation": {
+        "_type": "ResponseInstrumentation"
+    },
+    "readLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spiderman",
+    "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman",
+    "queryContext": {
+        "originalQuery": "Spiderman",
+        "alterationDisplayQuery": "spiderman",
+        "alterationOverrideQuery": "+Spiderman",
+        "alterationMethod": "AM_JustChangeIt",
+        "alterationType": "CombinedAlterationsChained"
+    },
+    "totalEstimatedMatches": 962,
+    "value": [
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=5FB2BA7F4FA8F41BCE195FB2BA7F4FA8F41BCE19",
+            "name": "Ron Suno - Spider-Man (Feat. Fivio Foreign) [Official Video]",
+            "description": "Ron Suno Drops New Single \"Spider-Man\" alongside Fivio Foreign. Stream & Download \"SWAG LIKE MIKE\" on all platforms: https://unitedmasters.com/m/swaglikemike Directed by Now & Forever Productions @shotbynaf Subscribe to Ron Suno's Channel: http://bit.ly/Subscribe-RonSuno Follow Ron Suno: https://www.instagram.com/ronsuno/ https://twitter.com ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.xO1i9f_Q1MkpqGoru8LGnAHfFn&pid=Api",
+            "datePublished": "2020-02-07T20:15:58.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "Ron Suno"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=J36B9zyBPGc",
+            "hostPageUrl": "https://www.youtube.com/watch?v=J36B9zyBPGc",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=J36B9zyBPGc",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT4M56S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.Gc4b9KhPf7qyXw_1593406889&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/J36B9zyBPGc?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 5079070,
+            "thumbnail": {
+                "width": 479,
+                "height": 359
+            },
+            "videoId": "5FB2BA7F4FA8F41BCE195FB2BA7F4FA8F41BCE19",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=927E880C63A17D793F62927E880C63A17D793F62",
+            "name": "Spider Man Action Series episode 8 with Venom Carnage",
+            "description": "Thanks to Big Bad Toy Store http://www.bigbadtoystore.com/?utm_so... Check out and get your LOZAUS Merchandise above or here: https://crowdmade.com/collections/lozaus1 Help support this channel by becoming a LOZAUS patron https://www.patreon.com/user?u=2432040 The Spider-Man Gang set out in search of Venom on their motorcycles. The young Spidey ...",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.-qhwNZqzUwIov_P8WToT0QEsDh&pid=Api",
+            "datePublished": "2020-06-13T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "lozaus1"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=b2LBbbTC0PQ",
+            "hostPageUrl": "https://www.youtube.com/watch?v=b2LBbbTC0PQ",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=b2LBbbTC0PQ",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT5M44S",
+            "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.Yj95faFjDIh-kg_1597644635&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/b2LBbbTC0PQ?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 1863205,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "927E880C63A17D793F62927E880C63A17D793F62",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=DA08AB71E3BA02712F94DA08AB71E3BA02712F94",
+            "name": "Spider-Man Far From Home Movie Surprise Toys Hunt!!!",
+            "description": "Spider-Man Far From Home Movie Surprise Toys Hunt Pretend play with Ryan ToysReview!!! Spiderman visits Ryan to find a spiderman mask! As Ryan test out the gear and sent Spiderman home! Fun pretends play superhero toys video for kids!!!",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.jvxMiThJl55lx1LRE869_QHgFo&pid=Api",
+            "datePublished": "2019-07-10T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "Ryan's World"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=QWzMokuwkOc",
+            "hostPageUrl": "https://www.youtube.com/watch?v=QWzMokuwkOc",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=QWzMokuwkOc",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT24M3S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.lC9xArrjcasI2g_1594475552&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/QWzMokuwkOc?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 12869475,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "DA08AB71E3BA02712F94DA08AB71E3BA02712F94",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=C67DA2696E1DA547C773C67DA2696E1DA547C773",
+            "name": "The Most AMAZING Superhero Game Ever.... | Spider-Man PS4 #1",
+            "description": "Spidey time! Marvel's Spider-Man is one of the best PS4 games of all-time. Enjoy Part 1 :) LIKE the video for MORE SPIDER-MAN!! Follow me on all social media! 🐤http://twitter.com/thechrisdenker 📷http://instagram.com/thechrisdenker 📌Want to become a member of the DenkOps Elite+ and support your boi directly! Click here: https://gaming ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.1K8Vyus0ta49CwHMR10pEQHgFo&pid=Api",
+            "datePublished": "2019-12-22T20:15:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "DenkOps - Chris Denker"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=lJGd98vBMG4",
+            "hostPageUrl": "https://www.youtube.com/watch?v=lJGd98vBMG4",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=lJGd98vBMG4",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT31M29S",
+            "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.c8dHpR1uaaJ9xg_1596983338&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/lJGd98vBMG4?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 96830,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "C67DA2696E1DA547C773C67DA2696E1DA547C773",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=90A555EEC64A56F28C7E90A555EEC64A56F28C7E",
+            "name": "DON T SHOOT! | Spider-Man - Part 6",
+            "description": "Wait, don't shoot! He knows something important in Spider-Man Become a Sponsor: https://youtube.com/jacksepticeye/join God Of War b : https://www.youtube.com/watch?v=AtwgGc-An6U\&list=PLMBYlcH3smRzz8VqMEUO2i9Vu3ynWAkQ0 b :Twitter : https://twitter.com/Jack_Septic_Eye b :Instagram: http://instagram.com/jacksepticeye b :PMA Merch: https ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.5XqjhKweJLq64ozzX7bWygHgFo&pid=Api",
+            "datePublished": "2018-09-11T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "jacksepticeye"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=smU1jpkRMkI",
+            "hostPageUrl": "https://www.youtube.com/watch?v=smU1jpkRMkI",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=smU1jpkRMkI",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT1H13M27S",
+            "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.fozyVkrG7lWlkA_1594657623&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/smU1jpkRMkI?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 3673986,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "90A555EEC64A56F28C7E90A555EEC64A56F28C7E",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=B26E7AB75FC0B6B339A8B26E7AB75FC0B6B339A8",
+            "name": "IT S FINALLY HERE!!! | Spider-Man - Part 1",
+            "description": "My boy is finally here!! I can finally play the new Spider-Man game! Become a Sponsor: https://youtube.com/jacksepticeye/join God Of War b : https://www.youtube.com/watch?v=AtwgGc-An6U\&list=PLMBYlcH3smRzz8VqMEUO2i9Vu3ynWAkQ0 b :Twitter : https://twitter.com/Jack_Septic_Eye b :Instagram: http://instagram.com/jacksepticeye b :PMA Merch ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.uWuZtrBqEZeBleATXM4iPwHgFo&pid=Api",
+            "datePublished": "2018-09-06T19:00:03.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "jacksepticeye"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=h9gKfj1IyNE",
+            "hostPageUrl": "https://www.youtube.com/watch?v=h9gKfj1IyNE",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=h9gKfj1IyNE",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT1H16M4S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.qDmztsBft3pusg_1595103493&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/h9gKfj1IyNE?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 11374947,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "B26E7AB75FC0B6B339A8B26E7AB75FC0B6B339A8",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=E6715AD3AD5A85B90FA3E6715AD3AD5A85B90FA3",
+            "name": "ERADICATING ALL THE CRIME | Spider-Man (100% Completion Run)",
+            "description": "Time to try 100% completing Spider-Man Become a Sponsor: https://youtube.com/jacksepticeye/join God Of War https://www.youtube.com/watch?v=AtwgGc-An6U&list=PLMBYlcH3smRzz8VqMEUO2i9Vu3ynWAkQ0 Twitter : https://twitter.com/Jack_Septic_Eye Instagram: http://instagram.com/jacksepticeye PMA Merch: https://jacksepticeye.com/ Edited by Pixlpit: https ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.qXajfNsoSUQINahdIVqGxAHgFo&pid=Api",
+            "datePublished": "2018-10-05T19:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "jacksepticeye"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=J2wwT840r3k",
+            "hostPageUrl": "https://www.youtube.com/watch?v=J2wwT840r3k",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=J2wwT840r3k",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT23M47S",
+            "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.ow-5hVqt01px5g_1598220002&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/J2wwT840r3k?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 2264752,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "E6715AD3AD5A85B90FA3E6715AD3AD5A85B90FA3",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=A9C658D20FCD915F8814A9C658D20FCD915F8814",
+            "name": "Spider Man Action Series episode 8 with Venom Carnage Trailer",
+            "description": "Thanks to Big Bad Toy Store http://www.bigbadtoystore.com/?utm_so... Check out and get your LOZAUS Merchandise above or here: https://crowdmade.com/collections/lozaus1 Help support this channel by becoming a LOZAUS patron https://www.patreon.com/user?u=2432040 The Spider-Man Gang set out in search of Venom on their motorcycles. The young Spidey ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.mHAO5pKmg90JxdWYFupGDwEsDh&pid=Api",
+            "datePublished": "2020-05-30T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "lozaus1"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=v4MmEpYb2Co",
+            "hostPageUrl": "https://www.youtube.com/watch?v=v4MmEpYb2Co",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=v4MmEpYb2Co",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT1M54S",
+            "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.FIhfkc0P0ljGqQ_1598222023&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/v4MmEpYb2Co?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 1961047,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "A9C658D20FCD915F8814A9C658D20FCD915F8814",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=903C10573D9F721A6EB5903C10573D9F721A6EB5",
+            "name": "SPIDER-MAN PS4 Walkthrough Gameplay Part 1 - INTRO (Marvel s Spider-Man)",
+            "description": "PS4 Spider-Man (Marvel's Spider-Man) Gameplay Walkthrough Part 1 for PS4 Pro includes a Review, Intro and Campaign Mission 1. My 2018 Marvel's Spider-Man Gameplay Walkthrough will feature the Full Game Story Campaign. Thanks Playstation for giving me the Full Game of Marvel's Spider-Man on PS4 Pro. Characters in Marvel's Spider-Man include Mary ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.Cf_PPDSODfyqYvBtdiTNXgHgFo&pid=Api",
+            "datePublished": "2018-09-06T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "theRadBrad"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=yCVOCSlzQno",
+            "hostPageUrl": "https://www.youtube.com/watch?v=yCVOCSlzQno",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=yCVOCSlzQno",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT45M47S",
+            "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.tW4acp89VxA8kA_1594115752&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/yCVOCSlzQno?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 14579784,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "903C10573D9F721A6EB5903C10573D9F721A6EB5",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=FDB88A3B1B421C160E43FDB88A3B1B421C160E43",
+            "name": "What If Venom Wasn't In Spider Man 3?",
+            "description": "Spider-Man 3 may still be the highest grossing Spider-Man film at the worldwide box office, but it left audiences with a bad taste in their mouths, ending Sam Raimi's acclaimed trilogy. Many complained of the film being too crowded with multiple storylines that just didn't quite fit together. Chief among those arcs was the misuse of Spider-Man ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.17M_AeQXiHRxoy6DinDdgQEsDh&pid=Api",
+            "datePublished": "2019-06-25T20:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "Channel Awesome"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=Fx7rfNslI-A",
+            "hostPageUrl": "https://www.youtube.com/watch?v=Fx7rfNslI-A",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Fx7rfNslI-A",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT23M38S",
+            "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.Qw4WHEIbO4q4_Q_1597271429&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/Fx7rfNslI-A?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 253980,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "FDB88A3B1B421C160E43FDB88A3B1B421C160E43",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=EA846C33A42D4D56EF4CEA846C33A42D4D56EF4C",
+            "name": "TASKMASTER | Spider-Man - Part 10",
+            "description": "Spider-Man and taskmaster come face to face for the first time Become a Sponsor: https://youtube.com/jacksepticeye/join God Of War https://www.youtube.com/watch?v=AtwgGc-An6U&list=PLMBYlcH3smRzz8VqMEUO2i9Vu3ynWAkQ0 Twitter : https://twitter.com/Jack_Septic_Eye Instagram: http://instagram.com/jacksepticeye PMA Merch: https://jacksepticeye.com ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.U3nAllnIPKZQZSFpQg6IRQEsDh&pid=Api",
+            "datePublished": "2018-09-15T19:00:01.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "jacksepticeye"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=5-g5nZodVFc",
+            "hostPageUrl": "https://www.youtube.com/watch?v=5-g5nZodVFc",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=5-g5nZodVFc",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT1H5M45S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.TO9WTS2kM2yE6g_1595286686&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/5-g5nZodVFc?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 2929536,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "EA846C33A42D4D56EF4CEA846C33A42D4D56EF4C",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=F57E892E1CEE94A4BDCBF57E892E1CEE94A4BDCB",
+            "name": "SPIDER-MAN PS4 Walkthrough Gameplay Part 45 - END GAME SUIT (Marvel's Spider-Man)",
+            "description": "PS4 Spider-Man (Marvel's Spider-Man) Gameplay Walkthrough Part 45 for PS4 Pro includes a Review and Campaign Mission 45. My 2018 Marvel's Spider-Man Gameplay Walkthrough will feature the Full Game Story Campaign. Thanks Playstation for giving me the Full Game of Marvel's Spider-Man on PS4 Pro. Characters in Marvel's Spider-Man include Mary Jane ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.4u_wR_KiQyFTMOScqyCZuwEsDh&pid=Api",
+            "datePublished": "2018-09-17T21:00:02.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "theRadBrad"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=bvmRjcdcMl4",
+            "hostPageUrl": "https://www.youtube.com/watch?v=bvmRjcdcMl4",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=bvmRjcdcMl4",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT25M",
+            "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.y72klO4cLol-9Q_1595338740&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/bvmRjcdcMl4?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 939032,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "F57E892E1CEE94A4BDCBF57E892E1CEE94A4BDCB",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=C26FE901369BEB3E859BC26FE901369BEB3E859B",
+            "name": "Evolution of Kingpin Boss Fights in Spider-Man Games (2007 - 2019)",
+            "description": "Evolution of Kingpin Boss Fights in Spider-Man Games (2007 - 2019)",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.CxBrpHS-StKLW0NSl5C1oAEsDh&pid=Api",
+            "datePublished": "2019-07-22T01:28:57.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "Noctober"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=-EjoAEGKTLw",
+            "hostPageUrl": "https://www.youtube.com/watch?v=-EjoAEGKTLw",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=-EjoAEGKTLw",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT41M31S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.m4U-65s2Aelvwg_1593511249&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/-EjoAEGKTLw?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 774142,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "C26FE901369BEB3E859BC26FE901369BEB3E859B",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=618BAF1B2586B0168C75618BAF1B2586B0168C75",
+            "name": "Spider Man Web of Shadows Carnage vs Venom Full Episode",
+            "description": "Spiderman gameplay today is a evolution boss fight battle between Venom and Carnage. Carnage is a playable character Mod on the PC version of Spiderman Web of Shadows where Peter Parker undergoes an evil transformation. Both symbiotes are villains in the fictional Spider-Man Universe of the Spider Verse and Mythos to spiderman. This video takes ...",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.S7nenhd2AbHprVU2RMDrywEsDh&pid=Api",
+            "datePublished": "2018-02-23T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "aCeLiFyVS"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=tSkzs5F4IM0",
+            "hostPageUrl": "https://www.youtube.com/watch?v=tSkzs5F4IM0",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=tSkzs5F4IM0",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT34M49S",
+            "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.dYwWsIYlG6-LYQ_1596240467&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/tSkzs5F4IM0?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 6025674,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "618BAF1B2586B0168C75618BAF1B2586B0168C75",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=A95C1CEAF9C330F810FAA95C1CEAF9C330F810FA",
+            "name": "Black Cat's Heist! (Spider-Man PS4 NEW DLC)",
+            "description": "Subscribe and join TeamTDM! :: http://bit.ly/TxtGm8 Follow Me on Twitter :: http://www.twitter.com/dantdm Previous Video :: https://youtu.be/1G3U-cAKom8 we have more new game to play! Spiderman, The Heist DLC is here and Black Cat is plotting something big. DanTDM MERCH :: http://www.dantdmshop.com Check out Spiderman PS4 :: https://store ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.BvgVuNW4uu2hw5EIKREDcwEsDh&pid=Api",
+            "datePublished": "2018-10-23T21:12:54.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "DanTDM"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=UeYr4UbDaOE",
+            "hostPageUrl": "https://www.youtube.com/watch?v=UeYr4UbDaOE",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=UeYr4UbDaOE",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT2H7M27S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.-hD4MMP56hxcqQ_1583388501&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/UeYr4UbDaOE?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 3589464,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "A95C1CEAF9C330F810FAA95C1CEAF9C330F810FA",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=36A4047BF8257E10E20936A4047BF8257E10E209",
+            "name": "AMAZING SPIDER MAN VS VENOM BATTLE ROYALE Stop Motion Trailer",
+            "description": "Thanks to Big Bad Toy Store http://www.bigbadtoystore.com/?utm_so... Check out and get your LOZAUS Merchandise above or here: https://crowdmade.com/collections/lozaus1 Help support this channel by becoming a LOZAUS patron https://www.patreon.com/user?u=2432040 This video is not intended for viewers under 13 years of age. Dark themes and mild ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.4W7lGh6fozyOIWXXCJ-BhQEsDh&pid=Api",
+            "datePublished": "2020-04-11T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "lozaus1"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=zU8tFGqN_3M",
+            "hostPageUrl": "https://www.youtube.com/watch?v=zU8tFGqN_3M",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=zU8tFGqN_3M",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT1M46S",
+            "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.CeIQfiX4ewSkNg_1594483798&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/zU8tFGqN_3M?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 866612,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "36A4047BF8257E10E20936A4047BF8257E10E209",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=F9EEBB652425862B6EB4F9EEBB652425862B6EB4",
+            "name": "SPIDER-MAN PS4 ENDING / FINAL BOSS - Walkthrough Gameplay Part 44 (Marvel's Spider-Man)",
+            "description": "PS4 Spider-Man (Marvel's Spider-Man) Ending Gameplay Walkthrough Part 44 for PS4 Pro includes the Final Boss, a Review and Campaign Mission 44. My 2018 Marvel's Spider-Man Gameplay Walkthrough will feature the Full Game Story Campaign. Thanks Playstation for giving me the Full Game of Marvel's Spider-Man on PS4 Pro. Characters in Marvel's ...",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.MV96QNBInV5O1zzw3AOGUAEsDh&pid=Api",
+            "datePublished": "2018-09-16T19:58:16.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "theRadBrad"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=-VdeygiSXeQ",
+            "hostPageUrl": "https://www.youtube.com/watch?v=-VdeygiSXeQ",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=-VdeygiSXeQ",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT33M13S",
+            "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.tG4rhiUkZbvu-Q_1593245088&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/-VdeygiSXeQ?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 2174062,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "F9EEBB652425862B6EB4F9EEBB652425862B6EB4",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=6A08DFF5AB471116DC956A08DFF5AB471116DC95",
+            "name": "The great quotes of: Spider-Man",
+            "description": "The great quotes of: Spider-Man",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.TOsKJmvFaVdnb39fadAukgHfFn&pid=Api",
+            "datePublished": "2017-05-10T15:09:35.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "Heroes \& Villains"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=DTox0TFriDM",
+            "hostPageUrl": "https://www.youtube.com/watch?v=DTox0TFriDM",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=DTox0TFriDM",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT22M22S",
+            "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.ldwWEUer9d8Iag_1593696509&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/DTox0TFriDM?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 303733,
+            "thumbnail": {
+                "width": 479,
+                "height": 359
+            },
+            "videoId": "6A08DFF5AB471116DC956A08DFF5AB471116DC95",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=C37507B785747EBD3349C37507B785747EBD3349",
+            "name": "MILES MORALES | Spider-Man - Part 7",
+            "description": "Peter becomes a mentor to a very special boy in Spider-Man Become a Sponsor: https://youtube.com/jacksepticeye/join God Of War https://www.youtube.com/watch?v=AtwgGc-An6U&list=PLMBYlcH3smRzz8VqMEUO2i9Vu3ynWAkQ0 Twitter : https://twitter.com/Jack_Septic_Eye Instagram: http://instagram.com/jacksepticeye PMA Merch: https://jacksepticeye.com ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.XWL9qF5rhfX3O_hH4fecowHgFo&pid=Api",
+            "datePublished": "2018-09-12T19:00:02.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "jacksepticeye"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=TWNMv8xf6u4",
+            "hostPageUrl": "https://www.youtube.com/watch?v=TWNMv8xf6u4",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=TWNMv8xf6u4",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT1H19M2S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.STO9fnSFtwd1ww_1593973721&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/TWNMv8xf6u4?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 3118263,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "C37507B785747EBD3349C37507B785747EBD3349",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=8BC74CBD8EBBC71760788BC74CBD8EBBC7176078",
+            "name": "SPIDER-MAN PS4 Walkthrough Gameplay Part 4 - AUNT MAY (Marvel s Spider-Man)",
+            "description": "PS4 Spider-Man (Marvel's Spider-Man) Gameplay Walkthrough Part 4 for PS4 Pro includes a Review and Campaign Mission 4. My 2018 Marvel's Spider-Man Gameplay Walkthrough will feature the Full Game Story Campaign. Thanks Playstation for giving me the Full Game of Marvel's Spider-Man on PS4 Pro. Characters in Marvel's Spider-Man include Mary Jane ...",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.d5t9UZif-D5zaBasms2NTQHgFo&pid=Api",
+            "datePublished": "2018-09-07T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "theRadBrad"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=BFaKma69RzI",
+            "hostPageUrl": "https://www.youtube.com/watch?v=BFaKma69RzI",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=BFaKma69RzI",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT22M57S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.eGAXx7uOvUzHiw_1597891356&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/BFaKma69RzI?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 2380322,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "8BC74CBD8EBBC71760788BC74CBD8EBBC7176078",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=DF5540901AF938BD55AEDF5540901AF938BD55AE",
+            "name": "OH NO SHE'S HOT! | Spider-Man: The Heist DLC - Part 1",
+            "description": "The Heist is on in the Spiderman PS4 DLC Become a Sponsor: https://youtube.com/jacksepticeye/join God Of War https://www.youtube.com/watch?v=AtwgGc-An6U&list=PLMBYlcH3smRzz8VqMEUO2i9Vu3ynWAkQ0 Twitter : https://twitter.com/Jack_Septic_Eye Instagram: http://instagram.com/jacksepticeye PMA Merch: https://jacksepticeye.com/ Edited by Pixlpit ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.Ld9v5SAmBtk9tLb9yGQ14gHgFo&pid=Api",
+            "datePublished": "2018-11-15T17:00:08.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "jacksepticeye"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=X3dJJGrWSu8",
+            "hostPageUrl": "https://www.youtube.com/watch?v=X3dJJGrWSu8",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=X3dJJGrWSu8",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT38M53S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.rlW9OPkakEBV3w_1594831111&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/X3dJJGrWSu8?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 2073278,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "DF5540901AF938BD55AEDF5540901AF938BD55AE",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=F1FDDAFA1B3A1411449CF1FDDAFA1B3A1411449C",
+            "name": "SPICY SARCASTIC SUPERJERK | Spider-Man PS4",
+            "description": "I stream this trash live: https://www.twitch.tv/therussianbadger FOLLOW ME HERE Twitter: https://twitter.com/DARUSSIANBADGER Twitch: https://www.twitch.tv/therussianbadger Discord: https://discord.gg/badger MY SETUP: https://www.amazon.com/shop/therussianbadger SHIRTS: https://teespring.com/stores/therussianbadger MUSIC Spinning/Outro Song ...",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.d8UYFP9r78r6T97kaKwMdgHfFn&pid=Api",
+            "datePublished": "2018-11-08T20:23:40.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "TheRussianBadger"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=Gz8LLdadnuQ",
+            "hostPageUrl": "https://www.youtube.com/watch?v=Gz8LLdadnuQ",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Gz8LLdadnuQ",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT20M40S",
+            "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.nEQRFDob-tr98Q_1594307201&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/Gz8LLdadnuQ?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 6479004,
+            "thumbnail": {
+                "width": 479,
+                "height": 359
+            },
+            "videoId": "F1FDDAFA1B3A1411449CF1FDDAFA1B3A1411449C",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=28A29E9038638011198728A29E90386380111987",
+            "name": "SPIDER-MAN PS4 Walkthrough Gameplay Part 22 - TOMBSTONE (Marvel's Spider-Man)",
+            "description": "PS4 Spider-Man (Marvel's Spider-Man) Gameplay Walkthrough Part 22 for PS4 Pro includes a Review and Campaign Mission 22. My 2018 Marvel's Spider-Man Gameplay Walkthrough will feature the Full Game Story Campaign. Thanks Playstation for giving me the Full Game of Marvel's Spider-Man on PS4 Pro. Characters in Marvel's Spider-Man include Mary Jane ...",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.a64hUmEQ3sRjRybxBTkk5AEsDh&pid=Api",
+            "datePublished": "2018-09-11T00:00:02.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "theRadBrad"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=Oz9j2p76nA8",
+            "hostPageUrl": "https://www.youtube.com/watch?v=Oz9j2p76nA8",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Oz9j2p76nA8",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT21M8S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.hxkRgGM4kJ6iKA_1598724012&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/Oz9j2p76nA8?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 1166258,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "28A29E9038638011198728A29E90386380111987",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=9F74EA6E63189357B6459F74EA6E63189357B645",
+            "name": "SPIDER-MAN GEAR Test & Kids Games SuperCut! | KIDCITY",
+            "description": "Spider-Man Gear Test & Family Games SuperCut! | KIDCITY Subscribe: http://bit.ly/kdctyvsub | 🔔Make sure to enable ALL push notifications!🔔 Watch the NEWEST videos: https://youtube.com/playlist?list=PLOUKlfxsBu- vBwmeXuuDUEmCeeoj0GywE&playnext=1&index=2 Get ready for the ultimate supercut of Spider-Man: Into the Spider-Verse Gear Tests ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.acEDFg1m4Uc8aOgScinlJQHgFo&pid=Api",
+            "datePublished": "2018-12-15T13:00:02.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "KidCity"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=5xfztj1_NYA",
+            "hostPageUrl": "https://www.youtube.com/watch?v=5xfztj1_NYA",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=5xfztj1_NYA",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT46M59S",
+            "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.RbZXkxhjbup0nw_1595956751&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/5xfztj1_NYA?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 3406642,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "9F74EA6E63189357B6459F74EA6E63189357B645",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=B3D7D5D6DBC9536834B3B3D7D5D6DBC9536834B3",
+            "name": "STAN LEE!! | Spider-Man - Part 2",
+            "description": "Who are the demons and who do they work for in Spider-Man! Become a Sponsor: https://youtube.com/jacksepticeye/join God Of War https://www.youtube.com/watch?v=AtwgGc-An6U&list=PLMBYlcH3smRzz8VqMEUO2i9Vu3ynWAkQ0 Twitter : https://twitter.com/Jack_Septic_Eye Instagram: http://instagram.com/jacksepticeye PMA Merch: https://jacksepticeye.com ...",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.uTanmNho0UC_sDS14d8OnQHgFo&pid=Api",
+            "datePublished": "2018-09-07T19:00:03.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "jacksepticeye"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=cKD41OvJZeU",
+            "hostPageUrl": "https://www.youtube.com/watch?v=cKD41OvJZeU",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=cKD41OvJZeU",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT1H7M16S",
+            "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.szRoU8nb1tXXsw_1597422727&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/cKD41OvJZeU?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 5820132,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "B3D7D5D6DBC9536834B3B3D7D5D6DBC9536834B3",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=8CD20E6061B37F83808C8CD20E6061B37F83808C",
+            "name": "UNRELEASED Spider-Man 4 Game Found! (Cancelled SM4 Movie Tie-In)",
+            "description": "The unreleased Spider-Man 4 movie game has been found on a Wii development system! The game includes two unfinished levels, debug rooms, assets, and more! In addition it also includes hints toward the story of the cancelled film! Special thanks to Andrew for lending this to us! Forrest of Illusion article: https://www.gamingalexandria.com/wp ...",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.F59gjIFjgJKQ19PAKlTGGwEsDh&pid=Api",
+            "datePublished": "2019-11-30T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "Hard4Games"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=rEVe_s-mX-0",
+            "hostPageUrl": "https://www.youtube.com/watch?v=rEVe_s-mX-0",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=rEVe_s-mX-0",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT27M5S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.jICDf7NhYA7SjA_1593951202&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/rEVe_s-mX-0?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 412808,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "8CD20E6061B37F83808C8CD20E6061B37F83808C",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=35AD085CEC6A2284E08E35AD085CEC6A2284E08E",
+            "name": "SPIDER-MAN PS4 Walkthrough Gameplay Part 3 - OCTAVIUS (Marvel s Spider-Man)",
+            "description": "PS4 Spider-Man (Marvel's Spider-Man) Gameplay Walkthrough Part 3 for PS4 Pro includes a Review and Campaign Mission 3. My 2018 Marvel's Spider-Man Gameplay Walkthrough will feature the Full Game Story Campaign. Thanks Playstation for giving me the Full Game of Marvel's Spider-Man on PS4 Pro. Characters in Marvel's Spider-Man include Mary Jane ...",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.gLhLWi6ZXKFj6R_ZCzKqQQHgFo&pid=Api",
+            "datePublished": "2018-09-06T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "theRadBrad"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=8ac1IJfhNNU",
+            "hostPageUrl": "https://www.youtube.com/watch?v=8ac1IJfhNNU",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=8ac1IJfhNNU",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT22M20S",
+            "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.juCEImrsXAitNQ_1594236771&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/8ac1IJfhNNU?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 2969975,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "35AD085CEC6A2284E08E35AD085CEC6A2284E08E",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=17885BED4762A801530917885BED4762A8015309",
+            "name": "SPIDER-MAN PS4 Walkthrough Gameplay Part 35 - ELECTRO (Marvel's Spider-Man)",
+            "description": "PS4 Spider-Man (Marvel's Spider-Man) Gameplay Walkthrough Part 35 for PS4 Pro includes a Review and Campaign Mission 35. My 2018 Marvel's Spider-Man Gameplay Walkthrough will feature the Full Game Story Campaign. Thanks Playstation for giving me the Full Game of Marvel's Spider-Man on PS4 Pro. Characters in Marvel's Spider-Man include Mary Jane ...",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.podSW9XHdQAMF2DVvORYHAHgFo&pid=Api",
+            "datePublished": "2018-09-14T12:00:04.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "theRadBrad"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=To1plZGqg2c",
+            "hostPageUrl": "https://www.youtube.com/watch?v=To1plZGqg2c",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=To1plZGqg2c",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT21M44S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.CVMBqGJH7VuIFw_1593965764&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/To1plZGqg2c?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 1066602,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "17885BED4762A801530917885BED4762A8015309",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=F48F50E32290C6D01F7EF48F50E32290C6D01F7E",
+            "name": "Marvel s Spider-Man Part 1 - Fisk - Gameplay Walkthrough PS4 2018",
+            "description": "Splash the like button for more Spider-Man Videos! Chris Smoove T-Shirts! http://chrissmoove.com/ NBA 2K18 Pack Simulator! http://mtdb.com/18/packs/ My Spider-Man Playlist Stay up to date with the series! https://spl.sh/2PzRxlo My Website, Facebook and Twitter http://chrissmoove.com http://www.facebook.com/ChrisSmoove http://twitter.com ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.UyGNllD2amhxihPNnF_qZAEsDh&pid=Api",
+            "datePublished": "2018-09-06T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "Chris Smoove"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=4DttEm9JC4M",
+            "hostPageUrl": "https://www.youtube.com/watch?v=4DttEm9JC4M",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=4DttEm9JC4M",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT51M14S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.fh_QxpAi41CP9A_1594613035&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/4DttEm9JC4M?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 924304,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "F48F50E32290C6D01F7EF48F50E32290C6D01F7E",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=AB63A67999164B6EF5D4AB63A67999164B6EF5D4",
+            "name": "SCORPION & RHINO | Spider-Man - Part 11",
+            "description": "The last of Doc Ock's henchmen in Spider-Man Become a Sponsor: https://youtube.com/jacksepticeye/join God Of War https://www.youtube.com/watch?v=AtwgGc-An6U&list=PLMBYlcH3smRzz8VqMEUO2i9Vu3ynWAkQ0 Twitter : https://twitter.com/Jack_Septic_Eye Instagram: http://instagram.com/jacksepticeye PMA Merch: https://jacksepticeye.com/ Edited by Pixlpit ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.x4gyPGFbAcavobvUqF6aBgEsDh&pid=Api",
+            "datePublished": "2018-09-16T19:00:02.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "jacksepticeye"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=t6Vjkk_kh2M",
+            "hostPageUrl": "https://www.youtube.com/watch?v=t6Vjkk_kh2M",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=t6Vjkk_kh2M",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT1H14M46S",
+            "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.1PVuSxaZeaZjqw_1596040297&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/t6Vjkk_kh2M?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 3259233,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "AB63A67999164B6EF5D4AB63A67999164B6EF5D4",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=A5D37862B55F1AAD144BA5D37862B55F1AAD144B",
+            "name": "Be Spider-man in Virtual Reality! - MARVEL Powers United VR Gameplay - VR Oculus Rift",
+            "description": "Welcome to MARVEL Powers United VR, a virtual reality video game on the Oculus Rift! MARVEL Powers United VR is a first-person Co-Op action game in which you take on the role of Marvelb",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.L6w1Wuz_m5ea2xiRh0QCZgEsDh&pid=Api",
+            "datePublished": "2018-07-26T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "Ctop"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=4RKHZi0Nbzg",
+            "hostPageUrl": "https://www.youtube.com/watch?v=4RKHZi0Nbzg",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=4RKHZi0Nbzg",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT25M58S",
+            "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.SxStGl-1YnjTpQ_1595186258&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/4RKHZi0Nbzg?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 2982865,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "A5D37862B55F1AAD144BA5D37862B55F1AAD144B",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=1DCFBDC0B96BC9EF1DF01DCFBDC0B96BC9EF1DF0",
+            "name": "THE FINAL BATTLE | Spider-Man - Part 12 (END)",
+            "description": "It all comes down to this in Spider-Man Become a Sponsor: https://youtube.com/jacksepticeye/join God Of War b : https://www.youtube.com/watch?v=AtwgGc-An6U\&list=PLMBYlcH3smRzz8VqMEUO2i9Vu3ynWAkQ0 b :Twitter : https://twitter.com/Jack_Septic_Eye b :Instagram: http://instagram.com/jacksepticeye b :PMA Merch: https://jacksepticeye.com/ Edited ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.dkNt6-6AOJfqrlKqMSK1uAEsDh&pid=Api",
+            "datePublished": "2018-09-17T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "jacksepticeye"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=qZhatoWFeNI",
+            "hostPageUrl": "https://www.youtube.com/watch?v=qZhatoWFeNI",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=qZhatoWFeNI",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT1H6M7S",
+            "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.8B3vyWu5wL3PHQ_1598093274&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/qZhatoWFeNI?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 3729785,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "1DCFBDC0B96BC9EF1DF01DCFBDC0B96BC9EF1DF0",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=D58519E8E1CC88BA6D72D58519E8E1CC88BA6D72",
+            "name": "Let s Play MARVEL S SPIDER-MAN | KIDCITY",
+            "description": "What's up kids! Today's we're playing the brand new Marvel's SPIDER-MAN Game with Little Flash and Dadcity! Subscribe: http://bit.ly/kdctyvsub | Follow us on Facebook: https://facebook.com/kidcitytv Check out our DIY Spider-Man PS4 Costume: https://www.youtube.com/watch?v=01RrlOomqqM\&list=PLOUKlfxsBu-vBwmeXuuDUEmCeeoj0GywE **** CHECK OUT ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.fYHObC5simepJwdWJ4pxXgHgFo&pid=Api",
+            "datePublished": "2018-09-11T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "KidCity"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=Z9Gc-mWxqLg",
+            "hostPageUrl": "https://www.youtube.com/watch?v=Z9Gc-mWxqLg",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Z9Gc-mWxqLg",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT12M50S",
+            "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.cm26iMzh6BmF1Q_1596123728&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/Z9Gc-mWxqLg?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 1428292,
+            "thumbnail": {
+                "width": 480,
+                "height": 360
+            },
+            "videoId": "D58519E8E1CC88BA6D72D58519E8E1CC88BA6D72",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=A4BD551ADFA1AC97C944A4BD551ADFA1AC97C944",
+            "name": "Oney Plays Spider-Man 2 (Complete Series)",
+            "description": "Subscribe for more Oney Plays http://bit.ly/oneyshole Oney Plays Spider-man 2 for Playstation 2 (ps2) Follow Oney Plays on Twitter: http://twitter.com/oneyplays Our Merch Store http://bit.ly/2rLISCg Follow Oney Plays on Facebook: https://www.facebook.com/oneyplays Follow Oney on Instagram: https://www.instagram.com/oneysc Subscribe to Oney ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.H9VCD2Fj3sSkEn7S6n7OoQEsDh&pid=Api",
+            "datePublished": "2018-12-22T18:00:01.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "OneyPlays"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=HI2rLVi2JYI",
+            "hostPageUrl": "https://www.youtube.com/watch?v=HI2rLVi2JYI",
+            "encodingFormat": "",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=HI2rLVi2JYI",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT3H41M32S",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/HI2rLVi2JYI?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 1432145,
+            "thumbnail": {
+                "width": 300,
+                "height": 225
+            },
+            "videoId": "A4BD551ADFA1AC97C944A4BD551ADFA1AC97C944",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spiderman&view=detail&mid=BB23DBAD010B318C5537BB23DBAD010B318C5537",
+            "name": "Spider-Man - PS4 Gameplay Walkthrough Part 1 - Worlds Collide Intro! Wilson Fisk!",
+            "description": "Marvel's Spider-Man Gameplay Walkthrough Part 1! The Main Event! My OTHER Other Job! NEXT PART http://zack.watch/SpiderManPart2 PLAYLIST http://zack.watch/SpiderManList SUBSCRIBE http://sub.zackscott.games Thanks for every Like! 👍 Ring the Bell! 🔔 ⤴ Thanks for watching my Spider-Man Gameplay and Walkthrough! This game one of the most ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.7p_dx8KrKi37Bqnx0LuIxwIIEk&pid=Api",
+            "datePublished": "2018-09-06T08:00:00.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "ZackScottGames"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=Jg-csZ85vGc",
+            "hostPageUrl": "https://www.youtube.com/watch?v=Jg-csZ85vGc",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Jg-csZ85vGc",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT47M48S",
+            "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.N1WMMQsBrdsjuw_1595326289&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/Jg-csZ85vGc?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 1281426,
+            "thumbnail": {
+                "width": 520,
+                "height": 292
+            },
+            "videoId": "BB23DBAD010B318C5537BB23DBAD010B318C5537",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false
+        }
+    ],
+    "nextOffset": 35,
+    "pivotSuggestions": [
+        {
+            "pivot": "Spiderman",
+            "suggestions": [
+                {
+                    "text": "The Amazing Spider Man 2",
+                    "displayText": "The Amazing Spider Man 2",
+                    "webSearchUrl": "https://www.bing.com/videos/search?q=The+Amazing+Spider+Man+2&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22The+Amazing+Spider+Man+2%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=VRQBPS",
+                    "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=The+Amazing+Spider+Man+2&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22The+Amazing+Spider+Man+2%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=The+Amazing+Spider+Man+2&pid=Api&mkt=en-SG&adlt=strict&t=1"
+                    }
+                },
+                {
+                    "text": "Superman",
+                    "displayText": "Superman",
+                    "webSearchUrl": "https://www.bing.com/videos/search?q=Superman&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Superman%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=VRQBPS",
+                    "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Superman&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Superman%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Superman&pid=Api&mkt=en-SG&adlt=strict&t=1"
+                    }
+                },
+                {
+                    "text": "Fantastic Four",
+                    "displayText": "Fantastic Four",
+                    "webSearchUrl": "https://www.bing.com/videos/search?q=Fantastic+Four&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Fantastic+Four%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=VRQBPS",
+                    "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Fantastic+Four&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Fantastic+Four%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Fantastic+Four&pid=Api&mkt=en-SG&adlt=strict&t=1"
+                    }
+                },
+                {
+                    "text": "Ultimate Spider Man",
+                    "displayText": "Ultimate Spider Man",
+                    "webSearchUrl": "https://www.bing.com/videos/search?q=Ultimate+Spider+Man&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Ultimate+Spider+Man%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=VRQBPS",
+                    "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Ultimate+Spider+Man&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Ultimate+Spider+Man%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Ultimate+Spider+Man&pid=Api&mkt=en-SG&adlt=strict&t=1"
+                    }
+                },
+                {
+                    "text": "Batman",
+                    "displayText": "Batman",
+                    "webSearchUrl": "https://www.bing.com/videos/search?q=Batman&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Batman%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=VRQBPS",
+                    "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Batman&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Batman%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Batman&pid=Api&mkt=en-SG&adlt=strict&t=1"
+                    }
+                },
+                {
+                    "text": "Deadpool",
+                    "displayText": "Deadpool",
+                    "webSearchUrl": "https://www.bing.com/videos/search?q=Deadpool&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Deadpool%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=VRQBPS",
+                    "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Deadpool&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Deadpool%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Deadpool&pid=Api&mkt=en-SG&adlt=strict&t=1"
+                    }
+                },
+                {
+                    "text": "Spider-Man 2 Movie",
+                    "displayText": "Spider-Man 2",
+                    "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+2+Movie&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Spider-Man+2%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=VRQBPS",
+                    "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+2+Movie&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Spider-Man+2%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Spider-Man+2+Movie&pid=Api&mkt=en-SG&adlt=strict&t=1"
+                    }
+                },
+                {
+                    "text": "Spider-Man 3 Movie",
+                    "displayText": "Spider-Man 3",
+                    "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+3+Movie&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Spider-Man+3%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=VRQBPS",
+                    "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+3+Movie&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Spider-Man+3%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Spider-Man+3+Movie&pid=Api&mkt=en-SG&adlt=strict&t=1"
+                    }
+                },
+                {
+                    "text": "The Incredible Hulk",
+                    "displayText": "Hulk",
+                    "webSearchUrl": "https://www.bing.com/videos/search?q=The+Incredible+Hulk&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Hulk%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=VRQBPS",
+                    "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=The+Incredible+Hulk&tq=%7b%22pq%22%3a%22Spiderman%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Spiderman%22%2c%22pv%22%3a%22Spiderman%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Hulk%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=The+Incredible+Hulk&pid=Api&mkt=en-SG&adlt=strict&t=1"
+                    }
+                }
+            ]
+        }
+    ],
+    "relatedSearches": [
+        {
+            "text": "Spider-Man Movies",
+            "displayText": "Spider-Man Movies",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Movies&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Movies",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Spider-Man+Movies&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man 2099",
+            "displayText": "Spider-Man 2099",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+2099&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+2099",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Spider-Man+2099&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Cartoon",
+            "displayText": "Spider-Man Cartoon",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Cartoon&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Cartoon",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Spider-Man+Cartoon&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Cake",
+            "displayText": "SpiderMan Cake",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Cake&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Cake",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=SpiderMan+Cake&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man 1",
+            "displayText": "Spider-Man 1",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+1&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+1",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Spider-Man+1&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "How to Draw Spider-Man",
+            "displayText": "How to Draw Spider-Man",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=How+to+Draw+Spider-Man&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=How+to+Draw+Spider-Man",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=How+to+Draw+Spider-Man&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Theme",
+            "displayText": "Spider-Man Theme",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Theme&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Theme",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Spider-Man+Theme&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man 2",
+            "displayText": "Spider-Man 2",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+2&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+2",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Spider-Man+2&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Drawings",
+            "displayText": "SpiderMan Drawings",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Drawings&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Drawings",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=SpiderMan+Drawings&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Real SpiderMan",
+            "displayText": "Real SpiderMan",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Real+SpiderMan&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Real+SpiderMan",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Real+SpiderMan&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "DanTDM Spider-Man",
+            "displayText": "DanTDM Spider-Man",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=DanTDM+Spider-Man&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=DanTDM+Spider-Man",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=DanTDM+Spider-Man&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Song",
+            "displayText": "Spider-Man Song",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Song&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Song",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Spider-Man+Song&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Film",
+            "displayText": "Spider-Man Film",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Film&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Film",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Spider-Man+Film&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Full Movies",
+            "displayText": "Spider-Man Full Movies",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Full+Movies&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Full+Movies",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Spider-Man+Full+Movies&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Cartoon Episodes",
+            "displayText": "Spider-Man Cartoon Episodes",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Cartoon+Episodes&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Cartoon+Episodes",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Spider-Man+Cartoon+Episodes&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan vs Deadpool",
+            "displayText": "SpiderMan vs Deadpool",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+vs+Deadpool&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+vs+Deadpool",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=SpiderMan+vs+Deadpool&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man vs Batman",
+            "displayText": "Spider-Man vs Batman",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+vs+Batman&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+vs+Batman",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Spider-Man+vs+Batman&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Kids",
+            "displayText": "SpiderMan Kids",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Kids&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Kids",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=SpiderMan+Kids&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Motorcycle",
+            "displayText": "SpiderMan Motorcycle",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Motorcycle&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Motorcycle",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=SpiderMan+Motorcycle&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan vs Hulk",
+            "displayText": "SpiderMan vs Hulk",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+vs+Hulk&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+vs+Hulk",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=SpiderMan+vs+Hulk&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Amazing Spider-Man",
+            "displayText": "Amazing Spider-Man",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Amazing+Spider-Man&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Amazing+Spider-Man",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Amazing+Spider-Man&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Videos for Kids",
+            "displayText": "Spider-Man Videos for Kids",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Videos+for+Kids&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Videos+for+Kids",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Spider-Man+Videos+for+Kids&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Funny SpiderMan",
+            "displayText": "Funny SpiderMan",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Funny+SpiderMan&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Funny+SpiderMan",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Funny+SpiderMan&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Animation",
+            "displayText": "Spider-Man Animation",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Animation&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Animation",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Spider-Man+Animation&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man 2002",
+            "displayText": "Spider-Man 2002",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+2002&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+2002",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Spider-Man+2002&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Bike",
+            "displayText": "SpiderMan Bike",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Bike&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Bike",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=SpiderMan+Bike&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Trailer",
+            "displayText": "Spider-Man Trailer",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Trailer&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Trailer",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Spider-Man+Trailer&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "LEGO Spider-Man",
+            "displayText": "LEGO Spider-Man",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=LEGO+Spider-Man&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=LEGO+Spider-Man",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=LEGO+Spider-Man&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man and Venom",
+            "displayText": "Spider-Man and Venom",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+and+Venom&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+and+Venom",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Spider-Man+and+Venom&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Cars",
+            "displayText": "SpiderMan Cars",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Cars&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Cars",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=SpiderMan+Cars&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Suit",
+            "displayText": "SpiderMan Suit",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Suit&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Suit",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=SpiderMan+Suit&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "GTA SpiderMan",
+            "displayText": "GTA SpiderMan",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=GTA+SpiderMan&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=GTA+SpiderMan",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=GTA+SpiderMan&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Clips",
+            "displayText": "Spider-Man Clips",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Clips&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Clips",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Spider-Man+Clips&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Logo",
+            "displayText": "SpiderMan Logo",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Logo&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Logo",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=SpiderMan+Logo&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "New Spider-Man Movie",
+            "displayText": "New Spider-Man Movie",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=New+Spider-Man+Movie&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=New+Spider-Man+Movie",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=New+Spider-Man+Movie&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Roblox Spider-Man",
+            "displayText": "Roblox Spider-Man",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Roblox+Spider-Man&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Roblox+Spider-Man",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Roblox+Spider-Man&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Games",
+            "displayText": "SpiderMan Games",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Games&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Games",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=SpiderMan+Games&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Dance",
+            "displayText": "SpiderMan Dance",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Dance&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Dance",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=SpiderMan+Dance&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Toys",
+            "displayText": "Spider-Man Toys",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Toys&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Toys",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Spider-Man+Toys&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Coryxkenshin Spider-Man",
+            "displayText": "Coryxkenshin Spider-Man",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Coryxkenshin+Spider-Man&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Coryxkenshin+Spider-Man",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Coryxkenshin+Spider-Man&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man 4",
+            "displayText": "Spider-Man 4",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+4&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+4",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Spider-Man+4&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Ultimate Spider-Man",
+            "displayText": "Ultimate Spider-Man",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Ultimate+Spider-Man&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Ultimate+Spider-Man",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Ultimate+Spider-Man&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "SpiderMan Dancing",
+            "displayText": "SpiderMan Dancing",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=SpiderMan+Dancing&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=SpiderMan+Dancing",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=SpiderMan+Dancing&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Sunflower",
+            "displayText": "Spider-Man Sunflower",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Sunflower&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Sunflower",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Spider-Man+Sunflower&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Chibi SpiderMan",
+            "displayText": "Chibi SpiderMan",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Chibi+SpiderMan&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Chibi+SpiderMan",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Chibi+SpiderMan&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Spider-Man Movies 2019",
+            "displayText": "Spider-Man Movies 2019",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Spider-Man+Movies+2019&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Spider-Man+Movies+2019",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Spider-Man+Movies+2019&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        }
+    ],
+    "currentOffset": 0
+}

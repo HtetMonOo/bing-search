@@ -1,0 +1,41 @@
+{
+    "_type": "Api.VideoDetails.VideoDetails",
+    "instrumentation": {
+        "_type": "ResponseInstrumentation"
+    },
+    "videoResult": {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=&view=detail&mid=5FB2BA7F4FA8F41BCE195FB2BA7F4FA8F41BCE19",
+        "name": "Ron Suno - Spider-Man (Feat. Fivio Foreign) [Official Video]",
+        "description": "Ron Suno Drops New Single \"Spider-Man\" alongside Fivio Foreign. Stream & Download \"SWAG LIKE MIKE\" on all platforms: https://unitedmasters.com/m/swaglikemike Directed by Now & Forever Productions @shotbynaf Subscribe to Ron Suno's Channel: http://bit.ly/Subscribe-RonSuno Follow Ron Suno: https://www.instagram.com/ronsuno/ https://twitter.com ...",
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.xO1i9f_Q1MkpqGoru8LGnAHfFn&pid=Api",
+        "datePublished": "2020-02-07T20:15:58.0000000",
+        "publisher": [
+            {
+                "name": "YouTube"
+            }
+        ],
+        "creator": {
+            "name": "Ron Suno"
+        },
+        "isAccessibleForFree": true,
+        "isFamilyFriendly": true,
+        "contentUrl": "https://www.youtube.com/watch?v=J36B9zyBPGc",
+        "hostPageUrl": "https://www.youtube.com/watch?v=J36B9zyBPGc",
+        "encodingFormat": "h264",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=J36B9zyBPGc",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT4M56S",
+        "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.Gc4b9KhPf7qyXw_1593406889&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/J36B9zyBPGc?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 5079070,
+        "thumbnail": {
+            "width": 479,
+            "height": 359
+        },
+        "videoId": "5FB2BA7F4FA8F41BCE195FB2BA7F4FA8F41BCE19",
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+    }
+}
