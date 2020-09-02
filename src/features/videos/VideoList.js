@@ -10,7 +10,7 @@ const VideoList = (props) => {
     <div className="row">
     { 
     arr.map(ar =>(
-      <div className="col-lg-3 col-md-12 mb-4 column">
+      <div className="col-lg-3 col-md-12 mb-2 column">
     
         {/* <!--Modal: Name--> */}
         <div className="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -42,7 +42,7 @@ const VideoList = (props) => {
 
         
 
-      <div className="card">
+      <div className="card" data-toggle="modal" data-target="#modal1">
         <div className="view overlay">
           <img className="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Food/8-col/img (5).jpg" alt="Card image cap"></img>
           <a href="#!">
@@ -51,10 +51,10 @@ const VideoList = (props) => {
         </div>
 
         <div className="card-body">
-          <p className="mb-auto mb-2">Lion React to the environent</p>
+          <p className="mb-2 font-weight-bold">Lion React to the environent</p>
           <div className="d-flex" id="div">
-          <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" id="seeDetail" className="btn p-1">See Detail &#62;&#62; </a>
+            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <button id="seeDetail" className="btn p-1">See Detail &#62;&#62; </button>
           </div>
         </div>
 

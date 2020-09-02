@@ -1,4 +1,30 @@
 .green {
-    background: #00897B;
-    color: #fff;
+    background: #00897B !important;
+    color: #fff !important;
+}
+.rs-btn-subtle:focus, 
+.rs-btn-subtle.rs-btn-focus, 
+.rs-btn-subtle:hover, 
+.rs-nav .rs-nav-item-active > .rs-nav-item-content:hover, 
+.rs-nav .rs-nav-item-active > .rs-nav-item-content, 
+.nav-item-active > .rs-nav-item-content:hover, 
+.nav-item-active > .rs-nav-item-content:active, 
+a:not([href]):hover, a:not([href]),
+.rs-btn-subtle:active {
+    color: #fff !important;
+    background: #00998a !important;
+}
+.rs-sidenav-default.rs-sidenav-collapse-in .rs-dropdown-menu > li > .rs-dropdown-item-content, .rs-dropdown-menu .rs-dropdown-item-content {
+    color: #fff !important;
+}
+.rs-sidenav .rs-dropdown .rs-dropdown-toggle {
+    font-size: 14px !important;
+}
+.rs-dropdown-menu > .rs-dropdown-item > .rs-dropdown-item-content:hover, .rs-dropdown-menu > .rs-dropdown-item > .rs-dropdown-item-content:focus {
+    text-decoration: none !important;
+    color: #575757 !important;
+    background-color: #00998a !important;
+}
+.rs-dropdown-menu .rs-dropdown-item-content {
+    color: #3a3939 !important;
 }

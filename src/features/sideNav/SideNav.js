@@ -8,7 +8,7 @@ import './SideNav.css';
 const SideNav = () => {
     
     const [ state, setState ] = useState({
-        width: 200,
+        width: 250,
         expand: true,
         activeKey: '1',
     })
@@ -16,7 +16,7 @@ const SideNav = () => {
     const handleToggle = () => {
         setState({
             expand: !state.expand,
-            width: state.width === 200 ? 50 : 200
+            width: state.width === 250 ? 58 : 250
         });
       }
     const handleSelect = (eventKey) => {
@@ -31,14 +31,18 @@ const SideNav = () => {
             
           <div style={{ width: state.width }} className="SideNav m-0 d-inline-block">
             <TopNav handleToggle={()=>handleToggle} expanded={expanded}></TopNav>
-            <hr />
-            <Sidenav className="green" expanded={state.expand} defaultOpenKeys={['1']} activeKey={state.activeKey} onSelect={handleSelect}
+            <Sidenav expanded={state.expand} defaultOpenKeys={['1']} activeKey={state.activeKey} onSelect={handleSelect}
             >
               <Sidenav.Body>
-                <Nav>
+                <Nav className="green">
                   <Nav.Item eventKey="1" icon={<Icon icon="home" />}>Home</Nav.Item>
 
-                  <Nav.Item eventKey="2" icon={<Icon icon="music" />}>Music videos</Nav.Item>
+                  <Dropdown placement="rightStart" eventKey="2" title="Music videos" icon={<Icon icon="music" />}>
+                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="3-1">This week</Dropdown.Item></Link>
+                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="3-2">Top</Dropdown.Item></Link>
+                    <Dropdown.Item eventKey="3-3">Trending</Dropdown.Item>
+                    <Dropdown.Item eventKey="3-4">Visit Depth</Dropdown.Item>
+                  </Dropdown>
 
                   <Dropdown placement="rightStart" eventKey="3" title="Viral videos" icon={<Icon icon="magic" />}>
                     <Link to={`/viralVideo`}><Dropdown.Item eventKey="3-1">This week</Dropdown.Item></Link>
@@ -46,9 +50,20 @@ const SideNav = () => {
                     <Dropdown.Item eventKey="3-3">More viral videos</Dropdown.Item>
                     <Dropdown.Item eventKey="3-4">Visit Depth</Dropdown.Item>
                   </Dropdown>
-                  <Nav.Item eventKey="4" icon={<Icon icon="tv" />}>TV shows</Nav.Item>
-                  
-                  <Nav.Item eventKey="5" icon={<Icon icon="play2" />}>Movie trailers</Nav.Item>
+
+                  <Dropdown placement="rightStart" eventKey="4" title="TV shows" icon={<Icon icon="tv" />}>
+                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="3-1">This week</Dropdown.Item></Link>
+                    <Dropdown.Item eventKey="3-2">Last week</Dropdown.Item>
+                    <Dropdown.Item eventKey="3-3">More viral videos</Dropdown.Item>
+                    <Dropdown.Item eventKey="3-4">Visit Depth</Dropdown.Item>
+                  </Dropdown>
+
+                  <Dropdown placement="rightStart" eventKey="5" title="Movie trailers" icon={<Icon icon="play2" />}>
+                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="3-1">This week</Dropdown.Item></Link>
+                    <Dropdown.Item eventKey="3-2">Last week</Dropdown.Item>
+                    <Dropdown.Item eventKey="3-3">More viral videos</Dropdown.Item>
+                    <Dropdown.Item eventKey="3-4">Visit Depth</Dropdown.Item>
+                  </Dropdown>
                   
                   <Dropdown placement="rightStart" eventKey="4" title="Settings"
                     icon={<Icon icon="gear-circle" />}
