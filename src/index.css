@@ -4,9 +4,20 @@ body {
   font-size: small !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
 }
-
+a {
+  text-decoration: none !important;
+  display: block;
+}
+a:-webkit-any-link {
+  display: block;
+  text-decoration: none !important;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+btn:focus {
+  outline: none;
 }

@@ -12,19 +12,21 @@ const TopNav=({handleToggle, expanded}) => {
     
     return (
         <nav className="TopNav navbar navbar-expand-lg bg-white">
-            <div>
-                <Toggle className="mx-3" onChange={handleToggle()} checked={expanded} />
+            <div className="d-flex">
+                <button className="btn px-2 py-1 mr-2"  onClick={handleToggle()}>
+                  <Icon icon="bars" />
+                </button>
                 <a className="navbar-brand mr-7" href="#">Bing</a>
             </div>
   
-            <div className="search">
+            <div className="search mx-auto">
                 <input type="text" className="searchTerm" placeholder="What are you looking for?"></input>
                 <button type="submit" className="searchButton">
                     <Icon icon="search" />
                 </button>
             </div>
 
-            <div className="ml-auto">
+            <div>
             <IconButton className="btn py-1 px-2 mx-3" aria-label="show 4 new mails" color="inherit">
               <Badge badgeContent={4} color="secondary">
               <Icon icon="envelope" />

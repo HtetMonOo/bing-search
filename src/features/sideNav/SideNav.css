@@ -2,6 +2,10 @@
     background: #00897B !important;
     color: #fff !important;
 }
+.rs-btn-toggle-checked {
+    background-color: #00897B !important;
+}
+.rs-nav-item:hover,
 .rs-btn-subtle:focus, 
 .rs-btn-subtle.rs-btn-focus, 
 .rs-btn-subtle:hover, 
@@ -9,10 +13,18 @@
 .rs-nav .rs-nav-item-active > .rs-nav-item-content, 
 .nav-item-active > .rs-nav-item-content:hover, 
 .nav-item-active > .rs-nav-item-content:active, 
-a:not([href]):hover, a:not([href]),
+a:not([href]):hover,
 .rs-btn-subtle:active {
     color: #fff !important;
     background: #00998a !important;
+}
+.rs-nav-default .rs-nav-item:not(.rs-nav-item-active):not(.rs-nav-item-disabled) > .rs-nav-item-content:hover, .rs-nav-default .rs-nav-item:not(.rs-nav-item-active):not(.rs-nav-item-disabled) > .rs-nav-item-content:focus,
+.rs-dropdown-item-content:focus {
+    
+    background: #00998a !important;
+}
+a:not([href]),.rs-dropdown-menu .rs-dropdown-item-content,.rs-nav-item:not(.rs-nav-item-disabled) > .rs-nav-item-content:hover, .rs-nav-item:not(.rs-nav-item-disabled) > .rs-nav-item-content:focus {
+    color: #fff !important;
 }
 .rs-sidenav-default.rs-sidenav-collapse-in .rs-dropdown-menu > li > .rs-dropdown-item-content, .rs-dropdown-menu .rs-dropdown-item-content {
     color: #fff !important;

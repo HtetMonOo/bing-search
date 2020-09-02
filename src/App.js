@@ -14,6 +14,7 @@ import 'rsuite/dist/styles/rsuite-default.css';
 import { Button } from 'rsuite';
 import SideNav from './features/sideNav/SideNav';
 import VideoList from './features/videos/VideoList';
+import VideoDetail from './features/videos/VideoDetail';
 
 function App() {
 
@@ -21,7 +22,7 @@ function App() {
     <Router>
       <div className="MainFrame">
       <SideNav/>
-        <div className="App">
+        <div className="App mx-2">
         <Switch>
           <Route exact path="/"
             render={() => (
@@ -31,6 +32,7 @@ function App() {
             )}
           />
           <Route exact path="/viralVideo" component={VideoList} />
+          <Route exaxt path="/videoDetail" component={VideoDetail} />
           {/* <Route exact path="/editPost/:postId" component={EditPostForm} /> */}
           <Redirect to="/" />
         </Switch>

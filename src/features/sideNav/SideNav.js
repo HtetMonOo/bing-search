@@ -31,15 +31,15 @@ const SideNav = () => {
             
           <div style={{ width: state.width }} className="SideNav m-0 d-inline-block">
             <TopNav handleToggle={()=>handleToggle} expanded={expanded}></TopNav>
-            <Sidenav expanded={state.expand} defaultOpenKeys={['1']} activeKey={state.activeKey} onSelect={handleSelect}
+            <Sidenav expanded={state.expand} defaultOpenKeys={['1']} activeKey={state.activeKey}
             >
               <Sidenav.Body>
                 <Nav className="green">
-                  <Nav.Item eventKey="1" icon={<Icon icon="home" />}>Home</Nav.Item>
+                  <Link to="/"><Nav.Item eventKey="1" icon={<Icon icon="home" />}  onSelect={handleSelect}>Home</Nav.Item></Link>
 
-                  <Dropdown placement="rightStart" eventKey="2" title="Music videos" icon={<Icon icon="music" />}>
-                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="3-1">This week</Dropdown.Item></Link>
-                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="3-2">Top</Dropdown.Item></Link>
+                  <Dropdown placement="rightStart" eventKey="2" title="Music videos" icon={<Icon icon="music" />}  onSelect={handleSelect}>
+                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="2-1"  onSelect={handleSelect}>This week</Dropdown.Item></Link>
+                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="2-2">Top</Dropdown.Item></Link>
                     <Dropdown.Item eventKey="3-3">Trending</Dropdown.Item>
                     <Dropdown.Item eventKey="3-4">Visit Depth</Dropdown.Item>
                   </Dropdown>

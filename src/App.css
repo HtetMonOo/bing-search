@@ -1,13 +1,15 @@
 .App {
   text-align: center;
   width: 100%;
-  background: #FAFAFA;
+  height: calc(100vh - 48px);
+  overflow-y: auto;
 }
 
 .MainFrame {
   display: flex;
   width: 100%;
   margin-top: 55px;
+  background: #FAFAFA;
 }
 
 @media (prefers-reduced-motion: no-preference) {
