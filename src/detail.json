@@ -1,41 +1,449 @@
 {
-    "_type": "Api.VideoDetails.VideoDetails",
+    "_type": "Videos",
     "instrumentation": {
         "_type": "ResponseInstrumentation"
     },
-    "videoResult": {
-        "webSearchUrl": "https://www.bing.com/videos/search?q=&view=detail&mid=5FB2BA7F4FA8F41BCE195FB2BA7F4FA8F41BCE19",
-        "name": "Ron Suno - Spider-Man (Feat. Fivio Foreign) [Official Video]",
-        "description": "Ron Suno Drops New Single \"Spider-Man\" alongside Fivio Foreign. Stream & Download \"SWAG LIKE MIKE\" on all platforms: https://unitedmasters.com/m/swaglikemike Directed by Now & Forever Productions @shotbynaf Subscribe to Ron Suno's Channel: http://bit.ly/Subscribe-RonSuno Follow Ron Suno: https://www.instagram.com/ronsuno/ https://twitter.com ...",
-        "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.xO1i9f_Q1MkpqGoru8LGnAHfFn&pid=Api",
-        "datePublished": "2020-02-07T20:15:58.0000000",
-        "publisher": [
-            {
-                "name": "YouTube"
+    "readLink": "videos/search?q=Don't Start Now Dua Lipa",
+    "webSearchUrl": "https://www.bing.com/videos/search?q=Don't Start Now Dua Lipa",
+    "queryContext": {
+        "originalQuery": "Don't Start Now Dua Lipa",
+        "alterationDisplayQuery": "don't start now dua lipa",
+        "alterationOverrideQuery": "+Don't Start Now Dua Lipa",
+        "alterationMethod": "AM_JustChangeIt",
+        "alterationType": "CombinedAlterationsChained"
+    },
+    "totalEstimatedMatches": 142,
+    "value": [
+        {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Don't%20Start%20Now%20Dua%20Lipa&view=detail&mid=25E5D4736CE503EB4AAC25E5D4736CE503EB4AAC",
+            "name": "Dua Lipa - Don't Start Now (Official Music Video)",
+            "description": "Get the new album Future Nostalgia : https://dualipa.co/futurenostalgia Stream Break My Heart : https://dualipa.co/breakmyheart Follow me online: Instagram: https://dualipa.co/instagram Facebook: http://dualipa.co/facebook Twitter: http://dualipa.co/twitter YouTube: https://dualipa.co/youtube Spotify: http://dualipa.co/spotify Apple Music ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.L6ydkL4_R4W0Z6u7SsHrVgHfFn&pid=Api",
+            "datePublished": "2019-11-01T13:00:11.0000000",
+            "publisher": [
+                {
+                    "name": "YouTube"
+                }
+            ],
+            "creator": {
+                "name": "Dua Lipa"
+            },
+            "isAccessibleForFree": true,
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.youtube.com/watch?v=oygrmJFKYZY",
+            "hostPageUrl": "https://www.youtube.com/watch?v=oygrmJFKYZY",
+            "encodingFormat": "h264",
+            "hostPageDisplayUrl": "https://www.youtube.com/watch?v=oygrmJFKYZY",
+            "width": 1280,
+            "height": 720,
+            "duration": "PT3M2S",
+            "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.rErrA-Vsc9TlJQ_1596153314&pid=Api",
+            "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/oygrmJFKYZY?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+            "allowHttpsEmbed": true,
+            "viewCount": 381141223,
+            "thumbnail": {
+                "width": 479,
+                "height": 359
+            },
+            "videoId": "25E5D4736CE503EB4AAC25E5D4736CE503EB4AAC",
+            "allowMobileEmbed": true,
+            "isSuperfresh": false,
+            "musicLyrics": "If you don't wanna see me#R##N##R##N#Did a full 180, crazy#R##N#Thinking 'bout the way I was#R##N#Did the heartbreak change me? Maybe#R##N#But look at where I ended up#R##N#I'm all good already#R##N#So moved on, it's scary#R##N#I'm not where you left me at all, so#R##N##R##N#If you don't wanna see me dancing with somebody#R##N#If you wanna believe that anything could stop me#R##N##R##N#Don't show up, don't come out#R##N#Don't start caring about me now#R##N#Walk away, you know how#R##N#Don't start caring about me now#R##N##R##N#Aren't you the guy who tried to#R##N#Hurt me with the word \"goodbye\"?#R##N#Though it took some time to survive you#R##N#I'm better on the other side#R##N#I'm all good already#R##N#So moved on, it's scary#R##N#I'm not where you left me at all, so#R##N##R##N#If you don't wanna see me dancing with somebody#R##N#If you wanna believe that anything could stop me#R##N##R##N#(Don't, don't, don't)#R##N#Don't show up, don't come out#R##N#Don't start caring about me now#R##N#Walk away, you know how#R##N#Don't start caring about me now ('bout me now, 'bout me)#R##N##R##N#Oh, oh#R##N#Don't come out, out, out#R##N#Don't show up, up, up#R##N#Don't start now (oh)#R##N#Oh, oh#R##N#Don't come out, out#R##N#I'm not where you left me at all, so#R##N##R##N#If you don't wanna see me dancing with somebody#R##N#If you wanna believe that anything could stop me#R##N##R##N#Don't show up (don't show up), don't come out (don't come out)#R##N#Don't start caring about me now ('bout me now)#R##N#Walk away (walk away), you know how (you know how)#R##N#Don't start caring about me now (so)#R##N##R##N#Oh, oh#R##N#Don't come out, out, out#R##N#Don't show up, up, up#R##N#Walk away, walk away (so)#R##N#Oh, oh#R##N#Don't come out, out, out#R##N#Don't show up, up, up#R##N#Walk away, walk away, oh"
+        }
+    ],
+    "nextOffset": 1,
+    "pivotSuggestions": [
+        {
+            "pivot": "Don't",
+            "suggestions": []
+        },
+        {
+            "pivot": "Start",
+            "suggestions": []
+        },
+        {
+            "pivot": "Now",
+            "suggestions": []
+        },
+        {
+            "pivot": "Dua",
+            "suggestions": []
+        },
+        {
+            "pivot": "Lipa",
+            "suggestions": []
+        }
+    ],
+    "relatedSearches": [
+        {
+            "text": "Dua Lipa Be the One",
+            "displayText": "Dua Lipa Be the One",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Be+the+One&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Be+the+One",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Dua+Lipa+Be+the+One&pid=Api&mkt=en-SG&adlt=strict&t=1"
             }
-        ],
-        "creator": {
-            "name": "Ron Suno"
         },
-        "isAccessibleForFree": true,
-        "isFamilyFriendly": true,
-        "contentUrl": "https://www.youtube.com/watch?v=J36B9zyBPGc",
-        "hostPageUrl": "https://www.youtube.com/watch?v=J36B9zyBPGc",
-        "encodingFormat": "h264",
-        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=J36B9zyBPGc",
-        "width": 1280,
-        "height": 720,
-        "duration": "PT4M56S",
-        "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.Gc4b9KhPf7qyXw_1593406889&pid=Api",
-        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/J36B9zyBPGc?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-        "allowHttpsEmbed": true,
-        "viewCount": 5079070,
-        "thumbnail": {
-            "width": 479,
-            "height": 359
+        {
+            "text": "Dua Lipa Live",
+            "displayText": "Dua Lipa Live",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Live&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Live",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Dua+Lipa+Live&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
         },
-        "videoId": "5FB2BA7F4FA8F41BCE195FB2BA7F4FA8F41BCE19",
-        "allowMobileEmbed": true,
-        "isSuperfresh": false
-    }
+        {
+            "text": "Dua Lipa New Song",
+            "displayText": "Dua Lipa New Song",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+New+Song&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+New+Song",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Dua+Lipa+New+Song&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Jimmy Fallon",
+            "displayText": "Dua Lipa Jimmy Fallon",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Jimmy+Fallon&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Jimmy+Fallon",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Dua+Lipa+Jimmy+Fallon&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa IDGAF",
+            "displayText": "Dua Lipa IDGAF",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+IDGAF&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+IDGAF",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Dua+Lipa+IDGAF&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Interview",
+            "displayText": "Dua Lipa Interview",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Interview&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Interview",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+Interview&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Lyrics",
+            "displayText": "Dua Lipa Lyrics",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Lyrics&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Lyrics",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Dua+Lipa+Lyrics&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Electricity",
+            "displayText": "Dua Lipa Electricity",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Electricity&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Electricity",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+Electricity&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Playlist",
+            "displayText": "Dua Lipa Playlist",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Playlist&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Playlist",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Dua+Lipa+Playlist&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Dancing",
+            "displayText": "Dua Lipa Dancing",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Dancing&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Dancing",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Dua+Lipa+Dancing&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa New Love",
+            "displayText": "Dua Lipa New Love",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+New+Love&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+New+Love",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Dua+Lipa+New+Love&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Don't Start Now Dance",
+            "displayText": "Don't Start Now Dance",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Don%27t+Start+Now+Dance&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Don%27t+Start+Now+Dance",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Don%27t+Start+Now+Dance&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa New Album",
+            "displayText": "Dua Lipa New Album",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+New+Album&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+New+Album",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+New+Album&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Don't Start Now Dua Lipa 1 Hour",
+            "displayText": "Don't Start Now Dua Lipa 1 Hour",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Don%27t+Start+Now+Dua+Lipa+1+Hour&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Don%27t+Start+Now+Dua+Lipa+1+Hour",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Don%27t+Start+Now+Dua+Lipa+1+Hour&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Music Videos",
+            "displayText": "Dua Lipa Music Videos",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Music+Videos&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Music+Videos",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+Music+Videos&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa the Voice",
+            "displayText": "Dua Lipa the Voice",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+the+Voice&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+the+Voice",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+the+Voice&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa 2020",
+            "displayText": "Dua Lipa 2020",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+2020&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+2020",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Dua+Lipa+2020&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa AMA",
+            "displayText": "Dua Lipa AMA",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+AMA&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+AMA",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+AMA&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Future Nostalgia",
+            "displayText": "Dua Lipa Future Nostalgia",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Future+Nostalgia&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Future+Nostalgia",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Dua+Lipa+Future+Nostalgia&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Don't Stop Now Dua Lipa Lyrics",
+            "displayText": "Don't Stop Now Dua Lipa Lyrics",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Don%27t+Stop+Now+Dua+Lipa+Lyrics&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Don%27t+Stop+Now+Dua+Lipa+Lyrics",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Don%27t+Stop+Now+Dua+Lipa+Lyrics&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Vimeo Dua Lipa Don't Start Now",
+            "displayText": "Vimeo Dua Lipa Don't Start Now",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Vimeo+Dua+Lipa+Don%27t+Start+Now&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Vimeo+Dua+Lipa+Don%27t+Start+Now",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Vimeo+Dua+Lipa+Don%27t+Start+Now&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Physical",
+            "displayText": "Dua Lipa Physical",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Physical&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Physical",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+Physical&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Don't Start Now Tik Tok Dance",
+            "displayText": "Don't Start Now Tik Tok Dance",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Don%27t+Start+Now+Tik+Tok+Dance&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Don%27t+Start+Now+Tik+Tok+Dance",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Don%27t+Start+Now+Tik+Tok+Dance&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Homesick Dua Lipa Lyrics",
+            "displayText": "Homesick Dua Lipa Lyrics",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Homesick+Dua+Lipa+Lyrics&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Homesick+Dua+Lipa+Lyrics",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Homesick+Dua+Lipa+Lyrics&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Don't Start Now Nightcore",
+            "displayText": "Don't Start Now Nightcore",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Don%27t+Start+Now+Nightcore&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Don%27t+Start+Now+Nightcore",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Don%27t+Start+Now+Nightcore&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Break My Heart",
+            "displayText": "Dua Lipa Break My Heart",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Break+My+Heart&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Break+My+Heart",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Dua+Lipa+Break+My+Heart&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Remix",
+            "displayText": "Dua Lipa Remix",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Remix&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Remix",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+Remix&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Did a Full 180",
+            "displayText": "Dua Lipa Did a Full 180",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Did+a+Full+180&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Did+a+Full+180",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Dua+Lipa+Did+a+Full+180&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Performance",
+            "displayText": "Dua Lipa Performance",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Performance&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Performance",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Dua+Lipa+Performance&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa AMA 2019",
+            "displayText": "Dua Lipa AMA 2019",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+AMA+2019&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+AMA+2019",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+AMA+2019&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Thinking 'Bout You",
+            "displayText": "Dua Lipa Thinking 'Bout You",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Thinking+%27Bout+You&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Thinking+%27Bout+You",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Dua+Lipa+Thinking+%27Bout+You&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa No Goodbyes",
+            "displayText": "Dua Lipa No Goodbyes",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+No+Goodbyes&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+No+Goodbyes",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+No+Goodbyes&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Karaoke",
+            "displayText": "Dua Lipa Karaoke",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Karaoke&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Karaoke",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Dua+Lipa+Karaoke&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa EMA",
+            "displayText": "Dua Lipa EMA",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+EMA&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+EMA",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Dua+Lipa+EMA&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Ellen",
+            "displayText": "Dua Lipa Ellen",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Ellen&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Ellen",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Dua+Lipa+Ellen&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Instagram",
+            "displayText": "Dua Lipa Instagram",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Instagram&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Instagram",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Dua+Lipa+Instagram&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Singing",
+            "displayText": "Dua Lipa Singing",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Singing&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Singing",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Dua+Lipa+Singing&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Covers",
+            "displayText": "Dua Lipa Covers",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Covers&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Covers",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Dua+Lipa+Covers&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Don't Show Up",
+            "displayText": "Don't Show Up",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Don%27t+Show+Up&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Don%27t+Show+Up",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Don%27t+Show+Up&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa MTV EMA",
+            "displayText": "Dua Lipa MTV EMA",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+MTV+EMA&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+MTV+EMA",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Dua+Lipa+MTV+EMA&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        },
+        {
+            "text": "Dua Lipa Play All Songs",
+            "displayText": "Dua Lipa Play All Songs",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Dua+Lipa+Play+All+Songs&FORM=VRPATC",
+            "searchLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=Dua+Lipa+Play+All+Songs",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Dua+Lipa+Play+All+Songs&pid=Api&mkt=en-SG&adlt=strict&t=1"
+            }
+        }
+    ],
+    "currentOffset": 0
 }

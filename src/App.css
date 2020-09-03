@@ -12,6 +12,11 @@
   background: #FAFAFA;
 }
 
+.container {
+  max-width: 100%;
+  min-width: 100%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-float infinite 3s ease-in-out;

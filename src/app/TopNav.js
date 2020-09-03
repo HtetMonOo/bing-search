@@ -27,17 +27,17 @@ const TopNav=({handleToggle, expanded}) => {
             </div>
 
             <div>
-            <IconButton className="btn py-1 px-2 mx-3" aria-label="show 4 new mails" color="inherit">
+            <IconButton className="btn py-1 px-2 mx-3" aria-label="show 4 new mails">
               <Badge badgeContent={4} color="secondary">
               <Icon icon="envelope" />
               </Badge>
             </IconButton>
-            <IconButton className="btn py-1 px-2 mx-3" aria-label="show 17 new notifications" color="inherit">
+            <IconButton className="btn py-1 px-2 mx-3" aria-label="show 17 new notifications">
               <Badge badgeContent={17} color="secondary">
               <Icon icon="bell" />
               </Badge>
             </IconButton>
-            <IconButton className="btn py-1 px-2 mx-3" aria-label="show 3 info" color="inherit">
+            <IconButton className="btn py-1 px-2 mx-3" aria-label="show 3 info">
               <Badge badgeContent={3} color="secondary">
               <Icon icon="user" />
               </Badge>
