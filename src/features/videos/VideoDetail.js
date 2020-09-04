@@ -2,12 +2,14 @@ import React, { useState, useEffect } from 'react'
 import Axios from 'axios';
 import './VideoDetail.css';
 import { search } from '../../.utils';
+import VideoList from './VideoList';
 
 const VideoDetail = ({match}) => {
     const { videoName } = match.params
     console.log(videoName);
     const url = search(videoName)+"&count=1";
     const [ video, setVideo ] = useState({});
+    const [ related, setRelated] = useState([]);
 
     useEffect(()=>{
         fetchVideoDetail();
@@ -17,22 +19,24 @@ const VideoDetail = ({match}) => {
         const response = await Axios.get(url);
         if (response.data && response.data.value){
             setVideo(response.data.value);
-            console.log(response.data.value);
+            setRelated(response.data.relatedSearches);
+            console.log(response.data);
         }else {
-            setVideo({})
+            setVideo({});
+            setRelated([]);
         }
     }
     const iframeUrl = (raw) => {
         const newUrl = raw.replace("watch?v=", "embed/");
         return (newUrl+"?autoplay=1");
     }
-    console.log(video);
+     console.log(related);
     return (
         <>
         { video[0] && video[0].hostPageDisplayUrl ?
         <div className="VideoDetail mx-2">
             <div className="iframe-container d-flex flex-column justify-content-center w-100">
-                <iframe src={iframeUrl(video[0].hostPageDisplayUrl)} frameborder="0" allowfullscreen></iframe>
+                <iframe src={iframeUrl(video[0].hostPageDisplayUrl)} frameBorder="0" allowFullScreen></iframe>
             </div>
             <div className="card mb-5 mt-1 w-100 p-5">
                 <div className="row no-gutters">
@@ -53,6 +57,7 @@ const VideoDetail = ({match}) => {
             </div>
         </div> : " "
         }
+        { related && <VideoList videos={related}/>}
         </>
     )
     

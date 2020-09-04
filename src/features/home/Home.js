@@ -11,7 +11,7 @@ const Home = () => {
  console.log(videos);
   return (
     <div className="Home">
-      <h3>Trending</h3>
+      <h4 className="p-3">Trending</h4>
   { videos && <VideoList videos={videos.bannerTiles}></VideoList> }
     </div>
   );

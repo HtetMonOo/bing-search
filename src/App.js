@@ -58,7 +58,7 @@ function App() {
                   </React.Fragment>
                 )}
               />
-              <Route exact path="/videoList/:videos" component={Toshow} />
+              <Route exact path="/videoList/:category/:subCat" component={Toshow} />
               <Route exaxt path="/videoDetail/:videoName" component={VideoDetail} />
               <Redirect to="/" />
             </Switch>

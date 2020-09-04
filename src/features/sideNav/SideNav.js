@@ -10,6 +10,7 @@ import { getVideos } from '../videos/videoSlice';
 const SideNav = () => {
 
   const videos = useSelector(getVideos);
+  const icons = ["music","magic","tv","play2"];
     
     const [ state, setState ] = useState({
         width: 250,
@@ -39,15 +40,15 @@ const SideNav = () => {
             <Sidenav expanded={state.expand} defaultOpenKeys={['1']} activeKey={state.activeKey} >
               <Sidenav.Body>
                 <Nav className="green">
-                  <Link to="/"><Nav.Item eventKey="1" icon={<Icon icon="home" />}  onSelect={handleSelect}>Home</Nav.Item></Link>
+                  <Link to="/"><Nav.Item eventKey="1" icon={<Icon icon="home" />}>Home</Nav.Item></Link>
                   {
                     videos && videos.categories &&
                     videos.categories.map((category, count) => (
-                      <Dropdown placement="rightStart" eventKey={count} title={category.title} icon={<Icon icon="music" />}  onSelect={handleSelect}>
+                      <Dropdown placement="rightStart" eventKey={count} title={category.title} icon={<Icon icon={icons[count-4]} />}>
                         {
                           category.subcategories && 
                           category.subcategories.map((sub, subCount) => (
-                            <Link to={`/videoList:${sub}`}><Dropdown.Item eventKey={`${count}-${subCount}`}  onSelect={handleSelect}>{sub.title}</Dropdown.Item></Link>
+                            <Link to={`/videoList/${category.title}/${sub.title}`}><Dropdown.Item eventKey={`${count}-${subCount}`}>{sub.title}</Dropdown.Item></Link>
                           ))
                         }
                       </Dropdown>
