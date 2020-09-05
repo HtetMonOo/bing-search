@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Sidenav, Dropdown, Icon, Nav } from 'rsuite';
 import { Link } from 'react-router-dom'
 import TopNav from '../../app/TopNav';
@@ -44,7 +44,7 @@ const SideNav = () => {
                   {
                     videos && videos.categories &&
                     videos.categories.map((category, count) => (
-                      <Dropdown placement="rightStart" eventKey={count} title={category.title} icon={<Icon icon={icons[count-4]} />}>
+                      <Dropdown placement="rightStart" eventKey={count} title={category.title} icon={<Icon icon={icons[count]} />}>
                         {
                           category.subcategories && 
                           category.subcategories.map((sub, subCount) => (
@@ -55,30 +55,6 @@ const SideNav = () => {
                       
                     ))
                   }
-
-{/*                   
-
-                  <Dropdown placement="rightStart" eventKey="3" title="Viral videos" icon={<Icon icon="magic" />}>
-                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="3-1">This week</Dropdown.Item></Link>
-                    <Dropdown.Item eventKey="3-2">Last week</Dropdown.Item>
-                    <Dropdown.Item eventKey="3-3">More viral videos</Dropdown.Item>
-                    <Dropdown.Item eventKey="3-4">Visit Depth</Dropdown.Item>
-                  </Dropdown>
-
-                  <Dropdown placement="rightStart" eventKey="4" title="TV shows" icon={<Icon icon="tv" />}>
-                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="3-1">This week</Dropdown.Item></Link>
-                    <Dropdown.Item eventKey="3-2">Last week</Dropdown.Item>
-                    <Dropdown.Item eventKey="3-3">More viral videos</Dropdown.Item>
-                    <Dropdown.Item eventKey="3-4">Visit Depth</Dropdown.Item>
-                  </Dropdown>
-
-                  <Dropdown placement="rightStart" eventKey="5" title="Movie trailers" icon={<Icon icon="play2" />}>
-                    <Link to={`/viralVideo`}><Dropdown.Item eventKey="3-1">This week</Dropdown.Item></Link>
-                    <Dropdown.Item eventKey="3-2">Last week</Dropdown.Item>
-                    <Dropdown.Item eventKey="3-3">More viral videos</Dropdown.Item>
-                    <Dropdown.Item eventKey="3-4">Visit Depth</Dropdown.Item>
-                  </Dropdown>
-                   */}
                   <Dropdown placement="rightStart" eventKey="4" title="Settings"
                     icon={<Icon icon="gear-circle" />}
                   >

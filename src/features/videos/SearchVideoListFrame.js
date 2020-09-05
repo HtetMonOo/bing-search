@@ -1,10 +1,10 @@
 import React, {useState, useEffect} from 'react'
 import Axios from 'axios';
 import VideoList from './VideoList';
-import { useDispatch, useSelector } from 'react-redux';
-import { fetchVideosPending, fetchVideosError, getSearch, getVideosPending, getVideosError, searchVideosSuccess } from './videoSlice';
+import { useDispatch } from 'react-redux';
+import { searchVideosSuccess } from './videoSlice';
 import { search } from '../../.utils';
-import  Loader from '../../app/Loader';
+import { Loader } from 'rsuite';
 
 function SearchVideoListFrame({match}) {
        
@@ -14,8 +14,7 @@ function SearchVideoListFrame({match}) {
         const url = search(searchTerm);
         
         const [ videos, setVideos ] = useState([]);
-        const [ pending, setPending ] = useState(useSelector(getVideosPending));
-        const [ error, setError ] = useState(useSelector(getVideosError));
+        const [ pending, setPending ] = useState(false);
 
 
         useEffect(()=>{
@@ -23,14 +22,15 @@ function SearchVideoListFrame({match}) {
         }, [])
     
     const searchVideos = async() => {
-        dispatch(fetchVideosPending());
+        setPending(true);
         try{
             const response = await Axios.get(url);
             dispatch(searchVideosSuccess(response.data));
             setVideos(response.data.value);
-            console.log(response.data);
+            setPending(false);
         }catch {
-            dispatch(fetchVideosError(error));
+            setVideos([]);
+            setPending(false);
         }
     }
 
@@ -46,10 +46,7 @@ function SearchVideoListFrame({match}) {
       <div>
         {
           pending ? <Loader /> :
-          <div>
-          <h4 className="p-3">Result for "{searchTerm}"</h4>
           <VideoList videos={videos} path="from search"/> 
-          </div>
         }
       </div>
   )

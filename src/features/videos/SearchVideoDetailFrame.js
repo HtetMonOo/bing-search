@@ -6,19 +6,15 @@ import { useSelector } from 'react-redux';
 function SearchVideoDetailFrame({match}) {
 
     const searchData = useSelector(getSearch);
-    console.log( searchData );
     
     if(searchData && searchData.value ){
-        console.log(searchData.value)
-    var video = searchData.value.find(vid => vid.name === match.params.videoName)
-    console.log(video);
-    var related = searchData.relatedSearches;
-    console.log(related);
-}
+        var video = searchData.value.find(vid => vid.name === match.params.videoName)
+        var related = searchData.relatedSearches;
+    }
     
     return (
         <>
-        { video && related && <VideoDetail video={video} related={related}/> }
+        { (video || related) && <VideoDetail video={video} related={related}/> }
         </>
     )
 }

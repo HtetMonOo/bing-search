@@ -5,6 +5,16 @@
     width: 100vw;
     z-index: 10;
 }
+.navbar-brand {
+  color: #00897B !important;
+  font-weight: 800;
+  padding: 0 !important;
+  font-size: 25px;
+}
+.navbar-brand>.rs-icon {
+  font-size: 30px !important;
+  margin-right: 6px !important;
+}
 .TopNav .btn:hover {
   color: #575757;
   background-color: #e5e5ea;

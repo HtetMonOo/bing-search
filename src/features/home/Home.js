@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import { useSelector, useDispatch } from 'react-redux';
+import React from 'react';
+import { useSelector } from 'react-redux';
 import VideoList from '../videos/VideoList';
 import { getVideos } from '../videos/videoSlice'
 
@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <div className="Home">
       <h4 className="p-3">Trending</h4>
-  { videos && <VideoList videos={videos.bannerTiles}></VideoList> }
+      { videos && <VideoList videos={videos.bannerTiles}></VideoList> }
     </div>
   );
 }

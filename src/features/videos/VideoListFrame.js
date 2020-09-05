@@ -1,9 +1,7 @@
-import React, { useState, useEffect} from 'react'
+import React from 'react'
 import VideoList from './VideoList';
-import { useSelector, useDispatch } from 'react-redux';
-import { getVideosInSubCat, getVideos } from './videoSlice';
-import Axios from 'axios';
-import { search } from '../.././.utils';
+import { useSelector } from 'react-redux';
+import { getVideos } from './videoSlice';
 
 const VideoListFrame = ({match}) => {
 
@@ -11,12 +9,9 @@ const VideoListFrame = ({match}) => {
         
         if( allVideos && allVideos.categories ) {
             const category = allVideos.categories.find( cat => cat.title === match.params.category );
-            console.log(allVideos.categories.map(cat => cat.title === match.params.category));
-            console.log(category);
-
+      
             if( category && category.subcategories ) {
               var subcat = category.subcategories.find( cat => cat.title === match.params.subCat );
-              console.log(subcat);
             }
           }
 

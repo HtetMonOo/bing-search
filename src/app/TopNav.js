@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Toggle, IconButton, Badge, Icon } from 'rsuite';
+import { IconButton, Badge, Icon } from 'rsuite';
 import './TopNav.css';
 import { Link } from 'react-router-dom';
 
@@ -18,7 +18,9 @@ const TopNav=({handleToggle}) => {
                 <button className="btn px-2 py-1 mr-2"  onClick={handleToggle()}>
                   <Icon icon="bars" />
                 </button>
-                <a className="navbar-brand mr-7" href="#">Bing</a>
+                <a className="navbar-brand mr-7" href="https://www.bing.com">
+                  <Icon icon="play-circle-o"></Icon><span>Bing</span>
+                  </a>
             </div>
   
             <div className="search mx-auto">
@@ -30,7 +32,7 @@ const TopNav=({handleToggle}) => {
                 </Link>
             </div>
 
-            <div>
+            <div className="ml-auto">
             <IconButton className="btn py-1 px-2 mx-3" aria-label="show 4 new mails">
               <Badge badgeContent={4} color="secondary">
               <Icon icon="envelope" />

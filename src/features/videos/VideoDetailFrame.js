@@ -2,32 +2,41 @@ import React, { useState, useEffect} from 'react'
 import VideoDetail from './VideoDetail';
 import Axios from 'axios';
 import { search } from '../../.utils';
+import { Loader } from 'rsuite';
 
 function VideoDetailFrame({match}) {
 
     const { videoName } = match.params
-    console.log(videoName);
     const url = search(videoName)+"&count=1";
-    const [ video, setVideo ] = useState({});
+    const [ video, setVideo ] = useState([]);
     const [ related, setRelated] = useState([]);
+    const [ pending, setPending ] = useState(false);
 
     useEffect(()=>{
         fetchVideoDetail();
     }, [])
     
     const fetchVideoDetail = async() => {
+        setPending(true);
         const response = await Axios.get(url);
         if (response.data && response.data.value){
             setVideo(response.data.value);
             setRelated(response.data.relatedSearches);
-            console.log(response.data);
+            setPending(false);
         }else {
-            setVideo({});
+            setVideo([]);
             setRelated([]);
+            setPending(false)
         }
     }
+    
     return (
-        <VideoDetail video={video[0]} related={related}/>
+        <>
+            {
+                pending ? <Loader /> : <VideoDetail video={video[0]} related={related}/>
+            }
+        </>
+        
     )
 }
 
