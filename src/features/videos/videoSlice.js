@@ -8,14 +8,10 @@ export const videoSlice = createSlice({
    },
     reducers: {
       fetchVideosSuccess: (state, action) => {
-          state.pending = false;
           state.videos = state.videos.concat(action.payload);
       },
       searchVideosSuccess: (state, action) => {
-          state.pending = false;
           state.search = state.search.concat(action.payload);
-          console.log(action.payload);
-          console.log(state.search);
       },
     } 
   })
