@@ -13,14 +13,16 @@ import Axios from 'axios';
 
 import 'rsuite/dist/styles/rsuite-default.css';
 import SideNav from './features/sideNav/SideNav';
-import VideoList from './features/videos/VideoList';
 import VideoDetail from './features/videos/VideoDetail';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchTrending } from './.utils'
 import { getVideosError, getVideos, getVideosPending } from './features/videos/videoSlice';
-import store from './app/store';
 import {fetchVideosPending, fetchVideosSuccess, fetchVideosError} from './features/videos/videoSlice';
-import Toshow from './features/videos/Toshow';
+import VideoListFrame from './features/videos/VideoListFrame';
+import Loader from './app/Loader';
+import SearchVideoListFrame from './features/videos/SearchVideoListFrame';
+import VideoDetailFrame from './features/videos/VideoDetailFrame';
+import SearchVideoDetailFrame from './features/videos/SearchVideoDetailFrame';
 
 function App() {
 
@@ -46,7 +48,7 @@ function App() {
 
   return (
     <Router>{
-      pending ? <div>Loading...</div> :
+      pending ? <Loader /> :
       <div className="MainFrame">
         <SideNav />
           <div className="App mx-2">
@@ -58,8 +60,10 @@ function App() {
                   </React.Fragment>
                 )}
               />
-              <Route exact path="/videoList/:category/:subCat" component={Toshow} />
-              <Route exaxt path="/videoDetail/:videoName" component={VideoDetail} />
+              <Route exact path="/videoList/:category/:subCat" component={VideoListFrame} />
+              <Route exact path="/searchVideoList/:searchTerm" component={SearchVideoListFrame} />
+              <Route exaxt path="/videoDetail/:videoName" component={VideoDetailFrame} />
+              <Route exact path="/search/videoDetail/:videoName" component={SearchVideoDetailFrame} />
               <Redirect to="/" />
             </Switch>
           </div>

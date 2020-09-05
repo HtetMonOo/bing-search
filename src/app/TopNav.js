@@ -1,15 +1,17 @@
 import React, { useState } from 'react';
 import { Toggle, IconButton, Badge, Icon } from 'rsuite';
 import './TopNav.css';
+import { Link } from 'react-router-dom';
 
 
-const TopNav=({handleToggle, expanded}) => {
+const TopNav=({handleToggle}) => {
 
-    const [ anchorEl, setAnchorEl ] = useState(null);
-    const handleProfileMenuOpen = (event) => {
-        setAnchorEl(event.currentTarget);
-      };
-    
+  const [ searchTerm, setSearchTerm ] = useState("");
+
+  const handleInputChange = (event) => {
+    setSearchTerm(event.target.value);
+  }
+
     return (
         <nav className="TopNav navbar navbar-expand-lg bg-white">
             <div className="d-flex">
@@ -20,10 +22,12 @@ const TopNav=({handleToggle, expanded}) => {
             </div>
   
             <div className="search mx-auto">
-                <input type="text" className="searchTerm" placeholder="What are you looking for?"></input>
-                <button type="submit" className="searchButton">
-                    <Icon icon="search" />
-                </button>
+                <input type="text" className="searchTerm" placeholder="What do you want to watch?" onChange={event => handleInputChange(event)}></input>
+                <Link to={`/searchVideoList/${searchTerm}`}>
+                  <button type="submit" className="searchButton">
+                      <Icon icon="search" />
+                  </button>
+                </Link>
             </div>
 
             <div>

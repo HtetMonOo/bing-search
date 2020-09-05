@@ -4,28 +4,8 @@ import './VideoDetail.css';
 import { search } from '../../.utils';
 import VideoList from './VideoList';
 
-const VideoDetail = ({match}) => {
-    const { videoName } = match.params
-    console.log(videoName);
-    const url = search(videoName)+"&count=1";
-    const [ video, setVideo ] = useState({});
-    const [ related, setRelated] = useState([]);
-
-    useEffect(()=>{
-        fetchVideoDetail();
-    }, [])
+const VideoDetail = ({video, related}) => {
     
-    const fetchVideoDetail = async() => {
-        const response = await Axios.get(url);
-        if (response.data && response.data.value){
-            setVideo(response.data.value);
-            setRelated(response.data.relatedSearches);
-            console.log(response.data);
-        }else {
-            setVideo({});
-            setRelated([]);
-        }
-    }
     const iframeUrl = (raw) => {
         const newUrl = raw.replace("watch?v=", "embed/");
         return (newUrl+"?autoplay=1");
@@ -33,24 +13,24 @@ const VideoDetail = ({match}) => {
      console.log(related);
     return (
         <>
-        { video[0] && video[0].hostPageDisplayUrl ?
+        { video && video.hostPageDisplayUrl ?
         <div className="VideoDetail mx-2">
             <div className="iframe-container d-flex flex-column justify-content-center w-100">
-                <iframe src={iframeUrl(video[0].hostPageDisplayUrl)} frameBorder="0" allowFullScreen></iframe>
+                <iframe src={iframeUrl(video.hostPageDisplayUrl)} frameBorder="0" allowFullScreen></iframe>
             </div>
             <div className="card mb-5 mt-1 w-100 p-5">
                 <div className="row no-gutters">
                     <div className="col-md-4">
-                        <img className="img" width="100%" src={video[0].thumbnailUrl}></img>
+                        <img className="img" width="100%" src={video.thumbnailUrl}></img>
 
                     </div>
                     <div className="col-md-8">
                     <div className="card-body">
-                        <h5 className="card-title">{video[0].name}</h5>
-                        <p className="card-text">{video[0].description}</p>
-                        <p className="card-text"><small className="text-muted">Creator : {video[0].creator.name}</small></p>
-                        <p className="card-text"><small className="text-muted">Release : {video[0].datePublished.substring(0,10)}</small></p>
-                        <p className="card-text"><small className="text-muted">Viewer : {video[0].viewCount}</small></p>
+                        <h5 className="card-title">{video.name}</h5>
+                        <p className="card-text">{video.description}</p>
+                        <p className="card-text"><small className="text-muted">Creator : {video.creator.name}</small></p>
+                        <p className="card-text"><small className="text-muted">Release : {video.datePublished.substring(0,10)}</small></p>
+                        <p className="card-text"><small className="text-muted">Viewer : {video.viewCount}</small></p>
                     </div>
                     </div>
                 </div>

@@ -19,3 +19,10 @@ export const fetchVideosError = (error) => {
         error: error
     }
 }
+
+export const searchVideosSuccess = (videos) => {
+    return {
+        type: 'SEARCH_VIDEOS_SUCCESS',
+        payload: videos
+    }
+}
